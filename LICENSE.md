@@ -1,4 +1,4 @@
-# 
+# Updated Letta (MemGPT) extensions. Featuring open-source and version-control — optimized for maximum performance and efficiency.
 
 
 
